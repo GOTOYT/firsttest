@@ -1,0 +1,6 @@
+from boxes.soruces import daily,weekly
+
+print("daily",daily.forecast())
+print("weekly",weekly.forecast())
+for number, outlook in enumerate(weekly.forecast(),100):
+    print(number,outlook)
