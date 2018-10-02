@@ -1,4 +1,5 @@
 # Consumer Key (API Key) B9LiKGwrkLuUe6EyBJhreUoEx
+# Consumer Key (API Key) B9LiKGwrkLuUe6EyBJhreUoEx
 #Consumer Secret (API Secret) n7Tg6WRLlsv1clxXunZsrBDP4MS5GNEi8cutfe5Ul5S5yrK1Mc
 #Access Token 1020967780315566080-MlZcns2q6e4tNCAgXzwPg2gQb0oJoh
 #Access Token Secret Mxqn5lP97bt2F3pic31zCrSDbkIvqMZueASErxpCYz9Ph
@@ -6,11 +7,11 @@
 #Owner GotoApi
 #Owner ID 1020967780315566080
 
-
-CONSUMER_KEY = "B9LiKGwrkLuUe6EyBJhreUoEx"
-CONSUMER_SECRET = "n7Tg6WRLlsv1clxXunZsrBDP4MS5GNEi8cutfe5Ul5S5yrK1Mc"
-ACCESS_TOKEN = "1020967780315566080-MlZcns2q6e4tNCAgXzwPg2gQb0oJoh"
-ACCESS_TOKEN_SECRET = "Mxqn5lP97bt2F3pic31zCrSDbkIvqMZueASErxpCYz9Ph"
+#アクセスキーはconfig_orgを参照せよ
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
 
 from SNS.twitter import config
 
